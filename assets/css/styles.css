@@ -19,6 +19,6 @@ html, body {
     margin-left: -75px;
 }
 
-#jugador-cartas, computadora-cartas {
+#jugador-cartas, #computadora-cartas {
     height: 240px;
 }
